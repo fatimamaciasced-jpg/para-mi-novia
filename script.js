@@ -2,7 +2,7 @@ function mensaje(num) {
     let texto = "";
 
     if (num === 1) {
-        texto = "💖 Desde que llegaste a mi vida, todo es más bonito 💖";
+        texto = "💖 espero me perdones por todo lo sucedido amor 💖";
     }
     if (num === 2) {
         texto = "🌹 No importa el lugar, mientras estés tú 🌹";
@@ -18,4 +18,5 @@ function mensaje(num) {
 function cerrarPopup() {
     document.getElementById("popup").style.display = "none";
 }
+
 
